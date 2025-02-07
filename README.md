@@ -65,7 +65,7 @@ I have a proven track record of delivering responsive, scalable, and SEO-friendl
 
 ## 📫 Let's Connect!
 
-<a href="https://www.linkedin.com/in/abdulsamadshaikh" target="_blank">
+<a href="https://www.linkedin.com/in/abdulsamad0fficial" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://www.getabdulsamad.com" target="_blank">
