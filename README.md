@@ -32,7 +32,6 @@ I have a proven track record of delivering responsive, scalable, and SEO-friendl
 ![W3 Total Cache](https://img.shields.io/badge/W3_Total_Cache-0A0A0A?style=flat&logo=wordpress&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
-🔹 **Custom Work for Performance Optimization:**
 - **Core Web Vitals Optimization**: Enhancing **LCP (Largest Contentful Paint)**, **FID (First Input Delay)**, and **CLS (Cumulative Layout Shift)** for better Google PageSpeed Insights scores.
 - **Custom Lazy Loading Techniques**: Implementing lazy loading beyond images, including **iframes, background videos, and third-party scripts** to improve page load speed.
 - **Critical CSS & JS Optimization**: Extracting **above-the-fold CSS** and deferring non-essential JavaScript to minimize render-blocking.
