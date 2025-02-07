@@ -32,6 +32,17 @@ I have a proven track record of delivering responsive, scalable, and SEO-friendl
 ![W3 Total Cache](https://img.shields.io/badge/W3_Total_Cache-0A0A0A?style=flat&logo=wordpress&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
+🔹 **Custom Work for Performance Optimization:**
+- **Core Web Vitals Optimization**: Enhancing **LCP (Largest Contentful Paint)**, **FID (First Input Delay)**, and **CLS (Cumulative Layout Shift)** for better Google PageSpeed Insights scores.
+- **Custom Lazy Loading Techniques**: Implementing lazy loading beyond images, including **iframes, background videos, and third-party scripts** to improve page load speed.
+- **Critical CSS & JS Optimization**: Extracting **above-the-fold CSS** and deferring non-essential JavaScript to minimize render-blocking.
+- **Database Optimization**: Cleaning up **post revisions, transients, orphaned meta, and expired cron jobs** for better query efficiency.
+- **Asset Minification & Compression**: Using **GZIP, Brotli, and WebP formats** for lightweight assets and **reducing HTTP requests**.
+- **Server-Level Caching**: Implementing **Redis/Memcached** caching for high-traffic WordPress websites, ensuring **faster dynamic content delivery**.
+- **Custom CDN Implementation**: Configuring **Cloudflare, BunnyCDN, and StackPath** for globally distributed static assets with intelligent caching.
+
+---
+
 ### **Version Control & Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -63,6 +74,7 @@ I have a proven track record of delivering responsive, scalable, and SEO-friendl
 ---
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsamad0fficial)  
-[![Portfolio](https://img.shields.io/badge/Website-ff69b4?style=flat&logo=google-chrome&logoColor=white)](https://getabdulsamad.com)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsamadshaikh) 
+[![Portfolio](https://img.shields.io/badge/Website-ff69b4?style=flat&logo=google-chrome&logoColor=white)](https://www.getabdulsamad.com) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abdulsamadshaikh)
