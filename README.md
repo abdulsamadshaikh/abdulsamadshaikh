@@ -65,6 +65,12 @@ I have a proven track record of delivering responsive, scalable, and SEO-friendl
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsamad0fficial) 
-[![Portfolio](https://img.shields.io/badge/Website-ff69b4?style=flat&logo=google-chrome&logoColor=white)](https://www.getabdulsamad.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abdulsamadshaikh)
+<a href="https://www.linkedin.com/in/abdulsamadshaikh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.getabdulsamad.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-ff69b4?style=flat&logo=google-chrome&logoColor=white" alt="Website">
+</a>
+<a href="https://github.com/abdulsamadshaikh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+</a>
