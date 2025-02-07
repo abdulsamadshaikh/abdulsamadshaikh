@@ -4,8 +4,6 @@ I'm a **Web Developer** with **8+ years of experience** specializing in **WordPr
 
 I have a proven track record of delivering responsive, scalable, and SEO-friendly web solutions tailored to diverse client needs. My expertise spans front-end and back-end development, **custom WordPress theme and plugin development, API integrations, eCommerce solutions, and performance optimization**.
 
----
-
 ## 🛠 Toolbox
 
 ### **Frontend Development:**
@@ -46,8 +44,6 @@ I have a proven track record of delivering responsive, scalable, and SEO-friendl
 ![Local by Flywheel](https://img.shields.io/badge/Local_Flywheel-008B8B?style=flat&logo=wordpress&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
-
 ## 🚀 Current Development Journey
 - **WordPress Website Design & Development**: Crafting custom, high-performance WordPress websites with a focus on clean code, responsiveness, SEO optimization, and scalability.
 - **Plugin Development**: Building custom WordPress plugins that extend functionality, improve user experience, and enhance performance while maintaining best coding practices.
@@ -56,14 +52,10 @@ I have a proven track record of delivering responsive, scalable, and SEO-friendl
 - **Next.js**: Diving into server-side rendering (SSR) and static site generation (SSG) to build fast and SEO-friendly web applications.
 - **Node.js**: Gaining knowledge of back-end JavaScript to create scalable server-side applications and RESTful APIs.
 
----
-
 ## 🎖 Key Achievements
 - Successfully contributed to multiple high-performance WordPress projects for international clients, delivering responsive, scalable, and SEO-optimized websites.
 - Awarded for excellence in project delivery and maintaining high-quality development standards.
 - Participated in **renowned exhibitions and competitions** like Vision and ICube, showcasing innovative web development projects.
-
----
 
 ## 📫 Let's Connect!
 
