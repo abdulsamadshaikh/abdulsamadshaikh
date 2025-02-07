@@ -40,8 +40,6 @@ I have a proven track record of delivering responsive, scalable, and SEO-friendl
 - **Server-Level Caching**: Implementing **Redis/Memcached** caching for high-traffic WordPress websites, ensuring **faster dynamic content delivery**.
 - **Custom CDN Implementation**: Configuring **Cloudflare, BunnyCDN, and StackPath** for globally distributed static assets with intelligent caching.
 
----
-
 ### **Version Control & Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
