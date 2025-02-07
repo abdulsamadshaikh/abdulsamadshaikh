@@ -65,11 +65,6 @@ I have a proven track record of delivering responsive, scalable, and SEO-friendl
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulsamadshaikh&show_icons=true&theme=radical)
-
----
-
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsamad0fficial) 
