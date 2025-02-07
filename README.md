@@ -25,6 +25,11 @@ I have a proven track record of delivering responsive, scalable, and SEO-friendl
 ![REST APIs](https://img.shields.io/badge/REST_API-005571?style=flat&logo=api&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
+### **Headless CMS & API-Driven Development:**
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat&logo=strapi&logoColor=white)
+![Headless WordPress](https://img.shields.io/badge/Headless_WP-21759B?style=flat&logo=wordpress&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) *(For Headless CMS)*
+
 ### **Performance & Optimization:**
 ![WP Rocket](https://img.shields.io/badge/WP_Rocket-FF2D20?style=flat&logo=wp-rocket&logoColor=white)
 ![W3 Total Cache](https://img.shields.io/badge/W3_Total_Cache-0A0A0A?style=flat&logo=wordpress&logoColor=white)
@@ -47,6 +52,7 @@ I have a proven track record of delivering responsive, scalable, and SEO-friendl
 ## 🚀 Current Development Journey
 - **WordPress Website Design & Development**: Crafting custom, high-performance WordPress websites with a focus on clean code, responsiveness, SEO optimization, and scalability.
 - **Plugin Development**: Building custom WordPress plugins that extend functionality, improve user experience, and enhance performance while maintaining best coding practices.
+- **Headless CMS Development**: Implementing **Next.js and Strapi** for headless CMS architecture, leveraging **API-driven content** with **WordPress as a headless CMS**.
 - **WordPress Blocks**: Exploring block-based development in WordPress to design and implement custom blocks using React.js and the Gutenberg editor.
 - **React.js**: Creating interactive and dynamic user interfaces with a focus on modern front-end development techniques and state management.
 - **Next.js**: Diving into server-side rendering (SSR) and static site generation (SSG) to build fast and SEO-friendly web applications.
