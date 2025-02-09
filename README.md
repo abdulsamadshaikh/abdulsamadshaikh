@@ -30,7 +30,7 @@ I have a proven track record of delivering responsive, scalable, and SEO-friendl
 ### **Headless CMS & API-Driven Development:**
 ![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat&logo=strapi&logoColor=white)
 ![Headless WordPress](https://img.shields.io/badge/Headless_WP-21759B?style=flat&logo=wordpress&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) *(For Headless CMS)*
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 ### **Performance & Optimization:**
 ![WP Rocket](https://img.shields.io/badge/WP_Rocket-FF2D20?style=flat&logo=wp-rocket&logoColor=white)
