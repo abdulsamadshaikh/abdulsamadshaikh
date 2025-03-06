@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdul Samad!
 
-I'm a **Web Developer** with **11+ years of experience** specializing in **WordPress, Webflow, and high-performance websites**. I have worked remotely with international clients, focusing on optimizing websites for speed, SEO, and user experience.
+I'm a **Web Developer** with **11+ years of experience** specializing in **WordPress, Shopify, Webflow, Wix, Squarespace, and high-performance websites**. I have worked remotely with international clients, focusing on optimizing websites for speed, SEO, and user experience.
 
 I have a proven track record of delivering responsive, scalable, and SEO-friendly web solutions tailored to diverse client needs. My expertise spans front-end and back-end development, **custom WordPress theme and plugin development, API integrations, eCommerce solutions, and performance optimization**.
 
